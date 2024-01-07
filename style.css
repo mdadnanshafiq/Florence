@@ -103,6 +103,18 @@ header {
 
 }
 
+.color1{
+    background-color: rgb(255, 232, 236);
+}
+
+.color2{
+    background-color: rgb(178, 255, 255);
+}
+
+.color3{
+    background-color: rgb(192, 250, 228);
+}
+
 .flower-box img {
     width: 314px;
     height: 471px;
